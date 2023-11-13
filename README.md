@@ -1,5 +1,5 @@
-![header-exellent-sistemas-github](https://github.com/Excellent-Sistemas/assets/blob/master/img/exellent-sistemas-project-footer.jpg)
-![header-exellent-sistemas-nestjs-api](https://github.com/Excellent-Sistemas/assets/blob/master/img/github-exellent-sistemas-project-footer.jpg)
+![header-exellent-sistemas-github](https://github.com/Excellent-Sistemas/assets/blob/master/img/header-exellent-sistemas-project.jpg)
+![header-exellent-sistemas-nestjs-api](https://github.com/Excellent-Sistemas/assets/blob/master/img/footer-github-exellent-sistemas-project.jpg)
 
 <div align="center">
 
